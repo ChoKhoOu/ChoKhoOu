@@ -2,7 +2,6 @@
 
 # Hi there, I'm ChoKho 👋
 
-![ChoKhoOu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoKhoOu&show_icons=true&theme=tokyonight)
 </div>
 
 ---
